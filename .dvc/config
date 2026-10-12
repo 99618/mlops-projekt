@@ -2,3 +2,7 @@
     remote = lokalny
 ['remote "lokalny"']
     url = C:\dvc-store
+['remote "second_storage"']
+    url = gdrive://18Sm0zlnFDhC7BWi0-scUuKGSDkLZp8Wh
+['remote "google_drive"']
+    url = gdrive://18Sm0zlnFDhC7BWi0-scUuKGSDkLZp8Wh
