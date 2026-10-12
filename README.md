@@ -12,3 +12,9 @@ ID: 99618
 ## DVC i wersjonowanie danych
 **DVC**: zbiory danych, dane i modele ML
 **GIT**: kod źródłowy, a repozytorium przechowuje metadane dla DVC
+
+## Ćwiczenie 3
+**komendy**:
+- git clone https://github.com/NAZWA/mlops-projekt .  (gdzie NAZWA to nazwa uzytkownika GitHub)
+- conda activate mlops
+- dvc pull
